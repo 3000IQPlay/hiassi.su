@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "hiassi.su",
+    "name": "hiassi.su",
+    "description": "A 1.12.2 hack client for anarchy and crystalpvp servers",
+    "version": "0.3",
+    "mcversion": "${mcversion}",
+    "authorList": ["maywr"],
+    "credits": "cattyn, amfero, xulu devs, trollgod devs, many other peopl"
+  }
+]
